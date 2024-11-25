@@ -1,0 +1,57 @@
+/* COMENTARIO */
+/* HOLIII */
+body{
+    background-color: #FFF6E3;
+    font-family: "Josefin Sans", sans-serif;
+}
+
+.light{
+    height: 250px;
+    width: 300px;
+    border-radius: 20px;
+    border: solid;
+    border-color: #FFCCEA;
+    border-width: 5px;
+}
+
+.drive{
+    height: 250px;
+    width: 300px;
+    border-radius: 20px;
+    /* OPACIDAD DE IMAGEN opacity: 0.5 */
+    border: solid;
+    border-color: #FFCCEA;
+    border-width: 5px;
+}
+
+.yours{
+    height: 250px;
+    width: 300px;
+    border-radius: 20px;
+    border: solid;
+    border-color: #FFCCEA;
+    border-width: 5px;
+}
+
+h1{
+    color: #a895fa;
+}
+
+h2{
+    color: #2babe2;
+}
+
+.minis{
+    background-image: url("https://i.pinimg.com/736x/88/b7/d2/88b7d20635a07092dfd3d12e8fd70779.jpg");
+    color:aliceblue;
+    background-color: rgba(0, 0, 0, 0);
+}
+
+.minin{
+    color: rgb(232, 156, 255);
+}
+
+.img{
+    text-align: center;
+}
+
